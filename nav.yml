@@ -1,0 +1,31 @@
+title: orznav
+websites:
+  - title: 搜索
+    description: 搜索引擎
+    list:
+      - title: Dogedoge
+        url: https://www.dogedoge.com/
+      - title: 百度
+        url: https://www.baidu.com/
+      - title: 搜狗
+        url: https://www.sogou.com
+  - title: IT
+    description: 科技媒体
+    list:
+      - title: IT之家
+        url: https://www.ithome.com/
+  - title: 娱乐
+    description: 划水
+    list:
+      - title: 煎蛋
+        url: https://jandan.net/
+        icon: https://cdn.jandan.net/static/img/favicon.ico
+      - title: Bilibili
+        url: https://www.bilibili.com/
+      - title: V2EX
+        url: https://www.v2ex.com/
+        icon: https://www.v2ex.com/static/img/icon_rayps_64.png
+  - title: 帮助
+    list:
+      - title: 主页
+        url: https://github.com/orzv

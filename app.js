@@ -42,6 +42,7 @@ Zepto(function ($) {
     function extractIcon(uri) {
         var root = uri.match(/^https?:\/\/[a-z0-9\-_\.]+\/?/i)
         if (!root) return ''
+        root = root[0]
         return root.slice(-1) === '/' ? root + 'favicon.ico' :
             root + '/favicon.ico'
     }

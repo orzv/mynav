@@ -1,5 +1,5 @@
 Zepto(function ($) {
-    loadConfig('/nav.yml', function (data) {
+    loadConfig('nav.yml', function (data) {
         var target = $(document.body)
         data.websites.forEach(function (item) {
             target.append(renderSection(item))

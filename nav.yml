@@ -1,33 +1,157 @@
 title: orznav
 websites:
   - title: 搜索
-    description: 搜索引擎
     list:
       - title: Dogedoge
         url: https://www.dogedoge.com/
       - title: 百度
         url: https://www.baidu.com/
+      - title: Google
+        url: https://www.google.com/
       - title: 搜狗
         url: https://www.sogou.com
+      - title: Bing
+        url: https://cn.bing.com/
   - title: IT
-    description: 科技媒体
     list:
       - title: IT之家
         url: https://www.ithome.com/
+      - title: 36氪快讯
+        url: https://36kr.com/newsflashes
+      - title: cnBeta
+        url: https://www.cnbeta.com/
+      - title: 雪球
+        url: https://xueqiu.com/
+      - title: 站长之家
+        url: https://www.chinaz.com/
+      - title: 微信公众号
+        url: https://mp.weixin.qq.com/
+      - title: 艾瑞网
+        url: https://www.iresearch.cn/
+        icon: https://www.iresearch.cn/include/public/images/favicon.ico
+      - title: 人人都是产品经理
+        url: http://www.woshipm.com/
+        icon: http://image.woshipm.com/favicon.ico
+      - title: 产品100
+        url: http://www.chanpin100.com/
+  - title: 办公
+    list:
+      - title: 石墨文档
+        url: https://shimo.im/
+      - title: 语雀
+        url: https://www.yuque.com
+      - title: 腾讯文档
+        url: https://docs.qq.com/
+      - title: 墨刀
+        url: https://modao.cc/
+      - title: 百度脑图
+        url: https://naotu.baidu.com/
+      - title: 蓝湖
+        url: https://lanhuapp.com/
+        icon: https://lanhuapp.com/img/favicon.ico
+  - title: 工具
+    list:
+      - title: 锤子笔记
+        url: https://note.t.tt/
+        icon: https://static.smartisanos.cn/common/img/favicon.ico
+      - title: 临时笔记
+        url: https://note.ms/
+      - title: 草料二维码
+        url: https://cli.im/
+        icon: https://static.clewm.net/static/images/favicon.ico
+      - title: 图片放大
+        url: http://waifu2x.udp.jp/
+      - title: 在线Ping
+        url: https://ping.chinaz.com/
+      - title: 在线图表
+        url: https://chartcube.alipay.com/
+        icon: https://gw.alipayobjects.com/mdn/rms_5c22b3/afts/img/A*DIP5TK-h6PYAAAAAAAAAAABkARQnAQ
+      - title: 菜鸟工具
+        url: https://c.runoob.com/
+      - title: 在线工具
+        url: https://tool.lu/
+      - title: JSRun
+        url: https://jsrun.pro/
+        icon: https://jsrun.pro/res/favicon.ico
+      - title: DeepL
+        url: https://www.deepl.com/translator
+        icon: https://www.deepl.com/img/favicon/favicon_32.png
+  - title: 资源
+    list:
+      - title: 面包多
+        url: https://mianbaoduo.com/
+        icon: https://cdn.2zimu.com/mianbaoduo/favicon.ico
+      - title: Zeit Now
+        url: https://zeit.co/
+        icon: https://assets.zeit.co/image/upload/q_auto/front/favicon/round-2/57x57.png
+      - title: 灵感生成器
+        url: https://liqi.io/idea-pump/
+        icon: https://liqi.io/wp-content/uploads/2018/05/66022-150x150.png
+      - title: 壁纸
+        url: https://wallhaven.cc
+      - title: 高德地图
+        url: https://ditu.amap.com/
+      - title: 百度地图
+        url: https://map.baidu.com/
+      - title: 产品经理导航
+        url: https://dh.woshipm.com/
+        icon: https://image.woshipm.com/wp-files/other/favicon.ico
   - title: 娱乐
-    description: 划水
     list:
       - title: 煎蛋
         url: https://jandan.net/
         icon: https://cdn.jandan.net/static/img/favicon.ico
+      - title: 微博
+        url: https://weibo.com/
       - title: Bilibili
         url: https://www.bilibili.com/
       - title: V2EX
         url: https://www.v2ex.com/
         icon: https://www.v2ex.com/static/img/icon_rayps_64.png
-  - title: 帮助
+      - title: 4chan
+        url: https://www.4chan.org/
+      - title: 1024
+        url: https://t66y.com/
+      - title: 哔哩哔哩相册
+        url: https://h.bilibili.com
+      - title: 云音乐
+        url: http://music.jsososo.com/#/
+  - title: 云计算
     list:
-      - title: 项目主页
-        url: https://github.com/orzv/mynav
-      - title: 示例
-        url: http://n.u1qo.com/
+      - title: 阿里云
+        url: https://aliyun.com/
+      - title: 腾讯云
+        url: https://cloud.tencent.com/
+      - title: 百度云
+        url: https://cloud.baidu.com/
+      - title: 西部数码
+        url: https://www.west.cn/
+      - title: 雨云
+        url: https://www.rainyun.com
+        icon: https://www.rainyun.com/img/favicon.png
+  - title: 开发资源
+    list:
+      - title: 图标库
+        url: https://iconfont.cn/
+        icon: https://gtms04.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico
+      - title: 图片压缩
+        url: https://tinyjpg.com/
+        icon: https://tinyjpg.com/images/favicon.ico
+      - title: MDN
+        url: https://developer.mozilla.org/zh-CN/
+      - title: 基特哈勃
+        url: https://github.com/
+      - title: CNode.js
+        url: https://cnodejs.org/
+        icon: https://static2.cnodejs.org/public/images/cnode_icon_32.png
+  - title: 网盘
+    list:
+      - title: Mega
+        url: https://mega.nz/
+      - title: 百度网盘
+        url: https://pan.baidu.com/
+        icon: https://pan.baidu.com/box-static/disk-system/images/favicon.ico
+      - title: 微云
+        url: https://www.weiyun.com/
+      - title: iCloud
+        url: https://www.icloud.com/

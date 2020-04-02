@@ -27,5 +27,7 @@ websites:
         icon: https://www.v2ex.com/static/img/icon_rayps_64.png
   - title: 帮助
     list:
-      - title: 主页
-        url: https://github.com/orzv
+      - title: 项目主页
+        url: https://github.com/orzv/mynav
+      - title: 示例
+        url: http://n.u1qo.com/

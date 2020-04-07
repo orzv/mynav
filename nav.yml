@@ -144,6 +144,8 @@ websites:
       - title: CNode.js
         url: https://cnodejs.org/
         icon: https://static2.cnodejs.org/public/images/cnode_icon_32.png
+      - title: JSFuck
+        url: http://www.jsfuck.com
   - title: 网盘
     list:
       - title: Mega
